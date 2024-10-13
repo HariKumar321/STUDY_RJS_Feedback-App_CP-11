@@ -1,4 +1,4 @@
-In this project, I build a Emoji Feedback App by applying the concepts from the MERN stack framework.
+In this project, I build an Emoji Feedback App by applying the concepts from the MERN stack framework.
 
 ### Refer to the image below:
 
